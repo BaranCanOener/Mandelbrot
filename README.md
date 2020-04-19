@@ -5,7 +5,7 @@ It is unchanged from the then-compiled version. It was done as an exercise to ge
 
 - The software supports a variable color palette to draw points on the complex plane based on their divergence speed.
 - An option to record and play zoom rides was implemented.
-- The feature to distribute computation using a client/server model is present, but was not fully tested.
+- The feature to distribute computation using a client/server model was never fully tested, hence it is not included in this upload
 
 ![Mandelbrot](https://github.com/BaranCanOener/Mandelbrot/blob/master/Screenshot1.PNG)
 ![Mandelbrot](https://github.com/BaranCanOener/Mandelbrot/blob/master/Screenshot2.PNG)
